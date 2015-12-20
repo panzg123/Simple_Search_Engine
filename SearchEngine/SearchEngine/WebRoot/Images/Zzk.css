@@ -1,0 +1,76 @@
+body{ font-family:"����","Arial Narrow"; font-size:12px;position:relative; line-height:22px; margin:0px; padding:0px; background-color:#FFFFFF;}
+img{ border:1px; }
+
+/* ������ʽ */
+#fmSearch{margin-top:7px;}
+#head{position:fixed;z-index: 301;background: #fff;margin:-10px;width:100%;border-bottom: 2px solid #ebebeb;}
+#header{ margin:40px; width:900px; text-align:right;}
+#header a{ text-decoration:none; color:#656D77; }
+#header a:hover{ color:Red; text-decoration:underline;}
+/*#End--------------------------------------------------------------------------*/
+
+/* �в���ʽ */
+#zzk{ margin:40px auto; width:900px; text-align:center; height:200px;}
+#zzk img{ margin-bottom:20px; margin-top:20px;}
+/*#End--------------------------------------------------------------------------*/
+
+/* ��Ȩ��ʽ */
+#copyright{ margin:10px auto; width:900px; text-align:center; color:#656D77; padding-bottom:10px;}
+#copyright a{ text-decoration:none; color:#656D77; }
+/*#End--------------------------------------------------------------------------*/
+
+/* �ؼ���ʽ�� */
+#input_a{float:left;margin: 0px 6px 0 6px;}
+.divList_size{}
+.inputimg{ margin-top:0px;margin-left:15px;margin-right:30px;width:50px;height:50px}
+.inputText{ border-bottom:1px solid #BDC5CA; border-right:1px solid #BDC5CA; border-top:1px solid #6F787E; border-left:1px solid #6F787E; padding:5px; font-size:20px; background-color:#F5F5F5; width:500px; }
+.inputSubmit{ font-size:22px;color:white;background-color:#3385ff; border:0px; cursor:hand;padding:5px 5px 5px 5px;}
+.formRadio{margin-left:200px;margin-bottom:0px;font-size:20px}
+/*#End--------------------------------------------------------------------------*/
+
+/* �����������ʽ */
+.header{ margin:0px 0px; width:100%;}
+.header img{ border:10px; margin-left:10px; margin-right:20px;}
+.fm{
+clear:right;
+float:left;
+margin: 50px 0 0 12px;
+}
+
+.headerBaseInfo{ margin:10px auto; width:100%;top:40; background-color:#d5ddf3; height:24px; line-height:24px; border-top:solid 1px #3366cc; padding-right:10px; color:#000000; text-align:right; position:absolute;}
+.headerBaseInfo a{ left:10px; top:0px; position:absolute; text-decoration:none; color:#000000;}
+
+.resultBoby{ margin:10px auto; width:990px;top:80; position:relative;}
+
+.leftBoby{ margin-left:10px; margin-top:10px;margin-bottom:20px; width:710px; border-right:solid 1px #3366cc;}
+.leftBoby a{ text-decoration:none; }
+.leftBobyPager{ margin:10px 0px 10px 0px;}
+.bobyTitle{ margin-top:10px; margin-left:0px; font-size:15px; }
+.bobyContent{ margin-top:5px; margin-left:0px; margin-right:20px; font-size:13px; text-indent:2em;}
+.bobyUrl{ margin-top:5px; margin-left:0px; }
+
+.rightBoby{ position:absolute; right:0px; top:0px; width:270px; text-align:center;}
+
+.rightBobyAd{ margin:0px;}
+
+.rightBobyHistory{ margin-top:10px; margin-bottom:10px; margin-left:20px; padding:0px; text-align:left;}
+.rightBobyHistory a{ text-decoration:none; color:Blue;}
+.rightBobyHistory a:hover{ text-decoration:underline; color:Red;}
+
+.rightBobySearch{ margin-top:10px; margin-bottom:10px; margin-left:20px; padding-top:10px; text-align:left; border-top:solid 1px #3366cc;}
+.rightBobySearch a{ text-decoration:none; color:Blue;}
+.rightBobySearch a:hover{ text-decoration:underline; color:Red;}
+/*#End--------------------------------------------------------------------------*/
+
+/* ���������ʽ */
+#relativeSearch{ margin:10px auto; width:990px; background-color: #eff2fa; }
+.relativeSearchTd{ height:30px; line-height:30px; font-size:14px; }
+.relativeSearchTd a{ color:#261cdc; margin-right:20px; text-decoration:none;}
+.relativeSearchTd a:hover{ color:Red; text-decoration:underline;}
+/*#End--------------------------------------------------------------------------*/
+
+/* AspNetPager */
+.anpager .cpb {background:#1F3A87 none repeat scroll 0 0;border:1px solid #CCCCCC;color:#FFFFFF;font-weight:bold;margin:5px 4px 0 0;padding:4px 5px 0; font-family:����;}
+.anpager a {background:#FFFFFF none repeat scroll 0 0;border:1px solid #CCCCCC;color:#1F3A87;margin:5px 4px 0 0;padding:4px 5px 0;text-decoration:none; font-family:����;}
+.anpager a:hover{background:#1F3A87 none repeat scroll 0 0;border:1px solid #1F3A87;color:#FFFFFF; font-family:����;}
+/*#End--------------------------------------------------------------------------*/
